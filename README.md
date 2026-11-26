@@ -27,14 +27,13 @@ My goal is to become a SOC Analyst, the person who monitors and investigates sec
 
 ## Progress
 
-| Area | Status |
-|---|---|
-| CCNA | Reviewing Days 1–21 |
-| Packet Tracer | In progress |
-| TryHackMe | Starting |
-| Linux | Not started |
-| English | Daily practice |
+| Area | Status | Notes |
+|------|--------|-------|
+| CCNA | Reviewing | Days 1-21, quiz revision |
+| Packet Tracer | In progress | VLSM lab done, see 02-packet-tracer-labs/ |
+| TryHackMe | Starting | First room tonight |
+| Linux | Starting | Folder ready, to begin |
+| English | Daily practice | See 05-english/ |
 
-## Goal
-
-Build strong networking and defensive security skills over the next five years.
+## GOAL
+Build strong networking and defensive security skills.
