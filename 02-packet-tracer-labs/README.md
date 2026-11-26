@@ -4,7 +4,8 @@ Networking labs built with Cisco Packet Tracer.
 
 ## Labs
 
-- (add each lab here with a short description)
+- [VLSM + VLANs + Router-on-a-Stick](01-vlsm-vlan-lab/): split
+  192.168.10.0/24 with VLSM and enable inter-VLAN routing.
 
 ## What I practice
 
